@@ -196,3 +196,19 @@ Received Import Request.
 Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '835f3a4314073ed9ed81974d324d5a83') in 0.093569 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1908.063088 seconds.
+  path: Assets/3D.unity
+  artifactKey: Guid(d1fa2e1384f59471eb25ba3a13c31946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/3D.unity using Guid(d1fa2e1384f59471eb25ba3a13c31946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd2170c302274ce8193a86704f21e43bf') in 0.074010 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 11.300238 seconds.
+  path: Assets/2D.unity
+  artifactKey: Guid(1cb41e061e6a4492cabab198ae4e1d6b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/2D.unity using Guid(1cb41e061e6a4492cabab198ae4e1d6b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'f4bf74b6d7c838ea797624e3f0a07e33') in 0.006923 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
